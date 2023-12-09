@@ -10,6 +10,8 @@ namespace HotelBookingProgram
             char retry;
             do
             {
+
+                Console.WriteLine("HOTDOG");
                 Console.Clear();
 
                 Console.WriteLine("Welcome to Bigtas Hotel!");
